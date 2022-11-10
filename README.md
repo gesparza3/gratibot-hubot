@@ -208,7 +208,7 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 [hubot-adapters]: https://github.com/github/hubot/blob/master/docs/adapters.md
 
-Test change for GH universe 
+
 
 ## Restart the bot
 
